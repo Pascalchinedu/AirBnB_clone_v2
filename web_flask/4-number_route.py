@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+
 """ This module defines route in flask. """
 
 from flask import Flask
